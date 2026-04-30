@@ -172,6 +172,7 @@ body {
 .expertise-item {
   padding: 40px 0;
   border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
 }
 
 .expertise-item:nth-child(odd) {
